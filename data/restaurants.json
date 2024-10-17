@@ -1,0 +1,23 @@
+[
+    {
+        "id": "1",
+        "name": "Le Gourmet Paris",    "cuisine": "Française",
+        "location": "Paris 75001",
+        "description": "Un restaurant élégant avec une cuisine française authentique."
+    },
+    {
+        "id": "2",
+        "name": "Sushi Zen",
+        "cuisine": "Japonaise",
+        "location": "Paris 75002",
+        "description": "Sushis et sashimis préparés avec les meilleurs ingrédients."
+    },
+    {
+        "id": "3",
+        "name": "Pizzeria Napoli",
+        "cuisine": "Italienne",
+        "location": "Paris 75003",
+        "description": "Venez déguster de délicieuses pizzas italiennes."
+    }
+    
+]
